@@ -1,0 +1,2 @@
+text[[:space:]]summarizer filter=lfs diff=lfs merge=lfs -text
+text_summarizer filter=lfs diff=lfs merge=lfs -text
